@@ -1,0 +1,27 @@
+var class_game_object =
+[
+    [ "GameObject", "class_game_object.html#a993079f18f6acad8c8e2e3a1d08adbab", null ],
+    [ "ExecuteScript", "class_game_object.html#a785926cdf15bd4a633e13965e34f23e8", null ],
+    [ "GetName", "class_game_object.html#a84df71ae6f557c1d764677219b492693", null ],
+    [ "SetName", "class_game_object.html#a789c8b21dd4cc7de4cd6875d6a9d653f", null ],
+    [ "bbox_h", "class_game_object.html#ad6729ce66bd80884b67f600ef357b70e", null ],
+    [ "bbox_w", "class_game_object.html#a713aae2026d6441be35fccb1a9a3ace5", null ],
+    [ "bbox_x_off", "class_game_object.html#add8b521a89f6e78a4d3f274772e66a08", null ],
+    [ "bbox_x_pos", "class_game_object.html#a901d87c9fe8994ad468c2280cf971602", null ],
+    [ "bbox_y_off", "class_game_object.html#a136259ce983b5338f78694b8b9154736", null ],
+    [ "bbox_y_pos", "class_game_object.html#a9dbbb795659995f424da5abc8113a274", null ],
+    [ "image_filename", "class_game_object.html#ac789aa1f0d481e8cf0ce6e2091bbdb1b", null ],
+    [ "index", "class_game_object.html#aaad195f487fe2a9c863b9f5609d8f2ec", null ],
+    [ "obj", "class_game_object.html#a68e22eac3ceb38a21572224ee2d4d6e2", null ],
+    [ "spr", "class_game_object.html#a65dfc6370a4ebdc607cc99ab03efa2f3", null ],
+    [ "spr_anim", "class_game_object.html#a91676b9199e4c085a8e05d8fd65406d5", null ],
+    [ "spr_frame", "class_game_object.html#a2060c675848501452b6cd468568cee22", null ],
+    [ "spr_h", "class_game_object.html#aa64b7c174d21e658e41b5c70ac5201ce", null ],
+    [ "spr_rotation", "class_game_object.html#af5e751625b3fac5030c0b1ed9f734df6", null ],
+    [ "spr_w", "class_game_object.html#afc104be689101a36c62ce3452b9e3e9a", null ],
+    [ "spr_x", "class_game_object.html#a62026bfab07b8ccae70944f122308bf7", null ],
+    [ "spr_y", "class_game_object.html#a62b338884443b535a14ed8575f10520d", null ],
+    [ "update", "class_game_object.html#aff15c2a3738d6be1b9a6d0dc4e1a8c1c", null ],
+    [ "x", "class_game_object.html#ad35c8c981954a69143edb0fa25ec4693", null ],
+    [ "y", "class_game_object.html#a23e00e3eff70fc63a5230aad2c19c740", null ]
+];
